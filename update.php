@@ -15,7 +15,7 @@
         <br>
         <label for="upd_email">Email Novo</label>
         <input type="text" name="upd_email">
-        <button type="submit">Enviar</button>
+        <button type="submit">Atualizar</button>
     </form>
 </body>
 </html>
