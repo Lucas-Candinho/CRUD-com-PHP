@@ -14,6 +14,7 @@
         <input type="text" name="email" required>
         <button type="submit">Enviar</button>
     </form>
+    <a href="read.php">Ver registros.</a>
 </body>
 </html>
 
